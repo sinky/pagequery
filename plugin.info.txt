@@ -1,4 +1,4 @@
-base    pagequery
+base    pagequery_azur
 author  Symon Bent
 email   hendrybadao@gmail.com
 date    2014-11-09
