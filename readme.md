@@ -1,6 +1,11 @@
-PageQuery Plugin
+PageQuery Plugin (modified)
 ======
 
+
+Modifications
+------
+  * removed CSS Styling
+  * removed Toolbar Icon
 
 Overview
 ------
