@@ -2,6 +2,6 @@ base    pagequery_azur
 author  Symon Bent
 email   hendrybadao@gmail.com
 date    2014-11-09
-name    PageQuery Plugin
-desc    modified: removed css and toolbar icon: https://github.com/sinky/pagequery
+name    PageQuery Plugin (Azur)
+desc    modified: removed css and toolbar icon: https://github.com/sinky/pagequery_azur
 url     http://www.dokuwiki.org/plugin:pagequery
